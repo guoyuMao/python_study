@@ -1,9 +1,7 @@
 from urllib.parse import urljoin
 
-import pickle
 import re
 import requests
-import zlib
 
 import pymongo
 
